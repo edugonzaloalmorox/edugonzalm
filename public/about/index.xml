@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Edu Gonzalo Almorox</title>
-    <link>/your_site_url_address/about/</link>
+    <link>/https://edugonzaloalmorox.github.io/edugonzalm/about/</link>
     <description>Recent content in About on Edu Gonzalo Almorox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 Jun 2015 14:02:37 +0200</lastBuildDate>
     
-	<atom:link href="/your_site_url_address/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/https://edugonzaloalmorox.github.io/edugonzalm/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

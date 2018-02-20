@@ -2,48 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Edu Gonzalo Almorox</title>
-    <link>/your_site_url_address/tags/</link>
+    <link>/https://edugonzaloalmorox.github.io/edugonzalm/tags/</link>
     <description>Recent content in Tags on Edu Gonzalo Almorox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/your_site_url_address/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/https://edugonzaloalmorox.github.io/edugonzalm/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>/your_site_url_address/tags/blog/</link>
+      <link>/https://edugonzaloalmorox.github.io/edugonzalm/tags/blog/</link>
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/your_site_url_address/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plot</title>
-      <link>/your_site_url_address/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/your_site_url_address/tags/plot/</guid>
+      <guid>/https://edugonzaloalmorox.github.io/edugonzalm/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/your_site_url_address/tags/r-markdown/</link>
+      <link>/https://edugonzaloalmorox.github.io/edugonzalm/tags/r-markdown/</link>
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/your_site_url_address/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regression</title>
-      <link>/your_site_url_address/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/your_site_url_address/tags/regression/</guid>
+      <guid>/https://edugonzaloalmorox.github.io/edugonzalm/tags/r-markdown/</guid>
       <description></description>
     </item>
     

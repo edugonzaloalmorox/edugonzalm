@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "your_site_url_address"
+baseurl = "/https://edugonzaloalmorox.github.io/edugonzalm/"
 languageCode = "en"
 title = "Edu Gonzalo Almorox"
 theme = "hugo-theme-cactus-plus"
