@@ -1,0 +1,15 @@
+---
+title: "Hello R Blogdown(land)"
+author: "Edu"
+date: 2018-02-20
+categories: ["R"]
+tags: ["R Markdown", "blog"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Hello world
+
+This is the initial post of the web and it is a test. I hope it works, fingers crossed. 
