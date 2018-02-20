@@ -1,20 +1,19 @@
 # Site settings
-baseurl = "/https://edugonzaloalmorox.github.io/edugonzalm/"
+baseurl = "your_site_url_address"
 languageCode = "en"
-title = "Edu Gonzalo Almorox"
+title = "Edu Gonzalo"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = "your_google_analytics_id"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
 
 [params]
-	author = "Edu Gonzalo Almorox"
-	description = "Site Description"
-	bio = "Economics | R | Health"
+	author = "Edu"
+	description = "My site"
+	bio = "Economist"
 
-	github = "edugonzaloalmorox"
-	twitter = "EdudinGonzalo"
-	
+	twitter = "your_twitter_id"
+
 
 	enableRSS = true
 	enableToc = true
@@ -61,10 +60,10 @@ hasCJKLanguage = false
 	# Share
 	enableShare = true
 	tweet = ""
-	share = ""
+	
 
 	# 404 page
-	title404 = "Wrong place.Try again"
+	title404 = ""
 	subtitle404 = ""
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
@@ -76,7 +75,6 @@ hasCJKLanguage = false
 # Add additional social link entries underneath
 [social]
 	
-	twitter-square = "https://twitter.com/EdudinGonzalo"
-	github-square = "https://github.com/edugonzaloalmorox"
-	linkedin = "https://www.linkedin.com/in/eduardo-gonzalo-almorox-5b8b4955/"
-	
+	linkedin = "https://www.facebook.com/nodejh"
+	twitter-square = "https://www.twitter.com/nodejh"
+	github-square = "https://www.github.com/nodejh"

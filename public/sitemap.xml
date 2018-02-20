@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/https://edugonzaloalmorox.github.io/edugonzalm/post/2018-02-20-hello/</loc>
-    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <loc>/your_site_url_address/post/2018-02-20-hello/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/https://edugonzaloalmorox.github.io/edugonzalm/about/</loc>
+    <loc>/your_site_url_address/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/https://edugonzaloalmorox.github.io/edugonzalm/tags/blog/</loc>
-    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <loc>/your_site_url_address/tags/blog/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/https://edugonzaloalmorox.github.io/edugonzalm/categories/</loc>
+    <loc>/your_site_url_address/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/https://edugonzaloalmorox.github.io/edugonzalm/</loc>
-    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <loc>/your_site_url_address/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/https://edugonzaloalmorox.github.io/edugonzalm/post/</loc>
-    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <loc>/your_site_url_address/tags/hello-world/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/https://edugonzaloalmorox.github.io/edugonzalm/categories/r/</loc>
-    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <loc>/your_site_url_address/post/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/https://edugonzaloalmorox.github.io/edugonzalm/tags/r-markdown/</loc>
-    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <loc>/your_site_url_address/categories/r/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/https://edugonzaloalmorox.github.io/edugonzalm/tags/</loc>
-    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <loc>/your_site_url_address/tags/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,15 +1,15 @@
 ---
-title: "Hello R Blogdown(land)"
-author: "Edu"
-date: 2018-02-20
+title: "Blogdown(land)"
+author: "Edu Gonzalo"
+date: 2018-01-20
 categories: ["R"]
-tags: ["R Markdown", "blog"]
+tags: ["Blog", "Hello World"]
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# Hello world
+### There we go
 
-This is the initial post of the web and it is a test. I hope it works, fingers crossed. 
+This is the first post

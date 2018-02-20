@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Edu Gonzalo Almorox</title>
-    <link>/https://edugonzaloalmorox.github.io/edugonzalm/</link>
-    <description>Recent content on Edu Gonzalo Almorox</description>
+    <title>Edu Gonzalo</title>
+    <link>/your_site_url_address/</link>
+    <description>Recent content on Edu Gonzalo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/https://edugonzaloalmorox.github.io/edugonzalm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/your_site_url_address/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Blogdown(land)</title>
-      <link>/https://edugonzaloalmorox.github.io/edugonzalm/post/2018-02-20-hello/</link>
-      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      <title>Blogdown(land)</title>
+      <link>/your_site_url_address/post/2018-02-20-hello/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/https://edugonzaloalmorox.github.io/edugonzalm/post/2018-02-20-hello/</guid>
-      <description>Hello world This is the initial post of the web and it is a test. I hope it works, fingers crossed.
+      <guid>/your_site_url_address/post/2018-02-20-hello/</guid>
+      <description>There we go This is the first post
  </description>
     </item>
     
